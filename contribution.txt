@@ -1,0 +1,13 @@
+Group Members' Contributions
+
+All three group members, Robin Le, Zhengtao Luo, and Shang Xu, contributed equally to the project. Each member was responsible for the following:
+
+Code Development: All team members collaborated on writing, debugging, and optimizing the code for the project.
+
+Report Writing: The report was a joint effort, with each member contributing equally to writing, editing, and reviewing all sections of the report.
+
+Project Coordination: All team members worked together to plan the project timeline, manage deadlines, and ensure smooth communication and progress.
+
+Summary
+
+Robin Le, Zhengtao Luo, and Shang Xu shared equal responsibilities in code development, report writing, and project coordination. Their collaborative efforts ensured the successful completion of the project.
